@@ -1,2 +1,2 @@
 # tensorflow-tastic
-tensorflow projects
+short notebooks demonstrating basic tensorflow principles.
