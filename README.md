@@ -16,7 +16,9 @@ this repository makes use of the following outside resources:
 
 * [documentation](https://pandas.pydata.org/pandas-docs/stable/ 'https://pandas.pydata.org/pandas-docs/stable/')
 
-#### [numpy](http://www.numpy.org/ 'http://www.numpy.org/')
+#### numpy
+
+* [about](http://www.numpy.org/ 'http://www.numpy.org/')
 
 * [documentation](https://docs.scipy.org/doc/numpy/reference/index.html 'https://docs.scipy.org/doc/numpy/reference/index.html')
 
