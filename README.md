@@ -44,3 +44,6 @@ this repository makes use of a number of outside libraries and resources. here a
 
 #### docker
 
+* [documentation](https://docs.docker.com/ 'https://docs.docker.com/')
+
+* see also: [Docker Orientation and Setup](https://docs.docker.com/get-started/ 'https://docs.docker.com/get-started/')
