@@ -1,6 +1,6 @@
 # tensorflow-tastic
 
-playing with tensorflow
+*playing with tensorflow*
 
 ## citations & docs
 
