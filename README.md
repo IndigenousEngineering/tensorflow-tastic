@@ -4,7 +4,9 @@
 
 ## citations & docs
 
-this repository makes use of the following outside resources:
+this repository makes use of a number of outside libraries and resources. here are a few, with documentation and other information.
+
+### libraries & packages
 
 #### scikit-learn
 
@@ -30,6 +32,15 @@ this repository makes use of the following outside resources:
 
 #### nltk
 
+* [documentation](https://www.nltk.org/ 'https://www.nltk.org/')
+
+* see also: [Natural Language Processing with Python](http://www.nltk.org/book/ 'http://www.nltk.org/book/')
+
 #### keras
 
-#### python
+* [documentation](https://keras.io/ 'https://keras.io/')
+
+* [github](https://github.com/keras-team/keras 'https://github.com/keras-team/keras')
+
+#### docker
+
