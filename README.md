@@ -2,6 +2,18 @@
 
 *playing with tensorflow*
 
+welcome! this repo is for executable notebooks demonstrating single (or as close to it as i can get!) concepts in Tensorflow.
+
+*why?*
+
+because machine learning projects, and deep learning projects in particular, have a lot of moving parts! building a project is an excellent way to learn. but when i was learning, i noticed there weren't a lot of freely available, __simple__ resources that focused on familiarity with single concepts. i was looking for a way to learn my way around Tensorflow without also having to learn a lot of new concepts *at the same time*. 
+
+__sometimes it's instructive to focus on one thing at a time.__
+
+so i will be uploading more single-focus demo notebooks here as i make them, just in case someone else might find them helpful. check back!
+
+### thanks and have a nice day!
+
 ## citations & docs
 
 this repository makes use of a number of outside libraries and resources. here are a few, with documentation and other information.
